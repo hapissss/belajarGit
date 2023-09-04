@@ -4,6 +4,7 @@ jenis kelamin
 mata pelajaran
 tempat tanggal lahir
 alamat
+alamat email
 action terdiri dari
 edit 
 dan hapus
